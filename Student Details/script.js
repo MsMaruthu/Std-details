@@ -8,7 +8,7 @@ const students = [
     { id: 7, name: 'Virat', age:19,grade:'D'},
     { id: 8, name: 'Dhoni', age:20,grade:'A'},
     { id: 9, name: 'Hardik', age:19,grade:'C'},
-    { id: 10, name: 'Suhail', age:19,grade:'C'},
+    // { id: 10, name: 'Suhail', age:19,grade:'C'},
 
 ];
 
